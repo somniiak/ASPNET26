@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <labs>
+        <exercise>1</exercise>
+        <list>4</list>
+        <subject>ASP.NET</subject>
+    </labs>
+    <secret>
+        <user>admin2137</user>
+        <password>sigma67essa</password>
+    </secret>
+</configuration>
